@@ -18,4 +18,15 @@ Images taken while working in azure for this project( steps followed ):
 4.Creating Bot service
 ![image](https://github.com/dipanshu1431/Deep-s__shop/assets/88936704/02ea1956-efda-4a19-a9cc-585256d6bc97)
 
-5.
+5. Creating azure storage account
+![image](https://github.com/dipanshu1431/Deep-s__shop/assets/88936704/6d6bb309-009b-4a2d-abc2-2866ed4bbf9b)
+
+6.Uploading source codes to container
+![image](https://github.com/dipanshu1431/Deep-s__shop/assets/88936704/a2b8aefd-f335-4dba-ab9a-356a724ad09f)
+
+7.Creating static web app service 
+
+
+
+
+
