@@ -1,6 +1,6 @@
 # Deep-s__shop
 
-I have created a static webpage for clothes shop with a chatbot. In this webpage anycone can see the pricing of the different clothes available in shop, get updates about new arriavals, also they can contact us. The bot answers simple questions regarding shops and clothes. I used the azure Language studio for creating the Knowlede base and creating the custom question answering service  along witht the Bot service and Static web app service for deploying the web page. I used the Storage accounts for storing the source code in azure.
+I have created a static webpage for clothes shop with a chatbot. In this webpage anycone can see the pricing of the different clothes available in shop, get updates about new arriavals, also they can contact us. The bot answers simple questions regarding shops and clothes. I used the azure Language studio for creating the Knowledge base and creating the custom question answering service  along with the Bot service and Static web app service for deploying the web page. I used the Storage accounts for storing the source code in azure.
 
 Demo link( live website link): https://red-beach-0d2846e0f.5.azurestaticapps.net/
 
