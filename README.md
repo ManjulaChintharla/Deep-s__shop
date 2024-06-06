@@ -2,7 +2,7 @@
 
 I have created a static webpage for clothes shop with a chatbot. In this webpage anycone can see the pricing of the differnet clothes available in shop, get updates about new arriavals, also they can contact us. The bot answers simple questions regarding shops and clothes. I used the azure Language studio for creating the Knowlede base and creating the custom question answering service  along witht the Bot service and Static web app service for deploying the web page. I used the Storage accounts for storing the source code in azure.
 
-Demo link( live website link): 
+Demo link( live website link): https://red-beach-0d2846e0f.5.azurestaticapps.net/
 
 Images taken while working in azure for this project( steps followed ): 
 
@@ -25,6 +25,10 @@ Images taken while working in azure for this project( steps followed ):
 ![image](https://github.com/dipanshu1431/Deep-s__shop/assets/88936704/a2b8aefd-f335-4dba-ab9a-356a724ad09f)
 
 7.Creating static web app service 
+![image](https://github.com/dipanshu1431/Deep-s__shop/assets/88936704/f92eafe8-da26-4e36-ae89-bfc34dc8dd6c)
+
+8.Successfully Deployed webpage in azure
+![image](https://github.com/dipanshu1431/Deep-s__shop/assets/88936704/58e432d4-795a-4d68-895b-1305e4632f7d)
 
 
 
